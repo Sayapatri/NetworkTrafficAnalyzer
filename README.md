@@ -1,6 +1,6 @@
 # Network Traffic Analyzer Tool
 
-The Network Traffic Analyzer Tool is a Python-based utility that captures and analyzes network traffic. It provides insights into packet-level data, helping users monitor network behavior, detect anomalies, and troubleshoot issues. This README provides an overview of the tool, its features, installation instructions, and usage examples.
+The Network Traffic Analyzer Tool is a Python-based utility that captures and analyzes network traffic. It provides insights into packet-level data, helping users monitor network behavior, detect anomalies, and troubleshoot issues. This README provides an overview of the tool, its features, installation instructions, and usage examples..
 
 ## Features
 
