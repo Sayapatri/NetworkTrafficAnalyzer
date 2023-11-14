@@ -45,7 +45,7 @@ Modify the example data in the script with your actual packet counts and protoco
 
 ## Sample Output
 
-[Include a sample output or screenshot of your tool in action if applicable.]
+
 
 ## Contributing
 
